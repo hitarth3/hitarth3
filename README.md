@@ -130,11 +130,11 @@ Building practical AI, machine learning, backend, and data engineering solutions
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=hitarth3&show_icons=true&theme=tokyonight" />
+  
   <img height="165" src="https://streak-stats.demolab.com/?user=hitarth3&theme=tokyonight" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitarth3&layout=compact&theme=tokyonight" />
+
 
 ---
 
