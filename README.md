@@ -13,7 +13,7 @@ Building practical AI, machine learning, backend, and data engineering solutions
 - 🎓 Completed **B.Sc. in Information Technology** from **GLS University**
 - 💼 Data Science & Machine Learning Intern at **Upparac Technology**
 - 💼 Software Engineer Intern at **Akhila Labs Pvt. Ltd.**
-- 🔭 Currently building AI/ML applications, data pipelines, and cloud-based solutions
+- 🔭 Building AI/ML applications, data pipelines, and cloud-based solutions
 - 🌱 Exploring **Machine Learning, LLMs, RAG, Data Engineering, and Cloud Technologies**
 - 🎯 Looking for opportunities in **AI/ML, Data Engineering, Backend Development, and related software roles**
 - 📫 Reach me at **hitarthshah124@gmail.com**
@@ -34,12 +34,11 @@ Building practical AI, machine learning, backend, and data engineering solutions
 **Data Engineering & Cloud**
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Event Hubs](https://img.shields.io/badge/Azure%20Event%20Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge)
 
 **AI, ML & Frameworks**
 
@@ -51,7 +50,6 @@ Building practical AI, machine learning, backend, and data engineering solutions
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-555555?style=for-the-badge)
 
 **Databases & Backend**
 
@@ -105,19 +103,23 @@ Building practical AI, machine learning, backend, and data engineering solutions
 
 ### 📌 Featured Projects
 
-- 🚕 **[Uber Real-Time Data Engineering Pipeline](YOUR_REPO_LINK)** — Azure Databricks, PySpark, ADF, Event Hubs, ADLS Gen2, Delta Lake
-- 💰 **[FinSightAI](YOUR_REPO_LINK)** — React, TypeScript, FastAPI, PostgreSQL, LangChain, Llama 3, Gemini
-- 🤖 **AI/ML Projects** — Predictive modeling, OCR-based processing, transaction classification, and RAG applications
+- 🚕 **[Uber Real-Time Streaming Lakehouse](https://github.com/hitarth3/Uber-Data-Engineering)** — Azure Databricks, PySpark, ADF, Event Hubs, ADLS Gen2, Delta Lake
+- 🍽️ **[Zomato AI-Powered Data Platform](https://github.com/hitarth3/Zomato)** — Snowflake, dbt, Airflow, AWS S3, AI, Streamlit
+- 💰 **[FinSightAI](https://github.com/hitarth3/FinSightAI)** — React, TypeScript, FastAPI, PostgreSQL, LangChain, Llama 3, Gemini
+- 📦 **[StockEase](https://github.com/hitarth3/Stockease)** — Python, PyQt6, PostgreSQL, ReportLab
+- 🌫️ **[AQI Prediction & Monitoring System](https://github.com/hitarth3/AQI)** — Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
 ### 🏆 Achievement
 
-🏅 **Indus Technofreaks 2024** — Awarded a prize for technical problem-solving and project execution. :contentReference[oaicite:1]{index=1}
+🏅 **Indus Technofreaks 2024** — Awarded a prize for technical problem-solving and project execution.
 
 ---
 
 ### 📫 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C2430?style=for-the-badge&logo=vercel&logoColor=white)](https://hitarthshahportfolio.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitarthshah3)
 
@@ -129,12 +131,17 @@ Building practical AI, machine learning, backend, and data engineering solutions
 
 ### 📊 GitHub Stats
 
-<p>
-  
-  <img height="165" src="https://streak-stats.demolab.com/?user=hitarth3&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitarth3&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitarth3&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitarth3&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
